@@ -74,5 +74,6 @@ _main()
 
   # Notify the application has started
   "$IMAGE" fim-notify on
+}
 
 _main "$@"
